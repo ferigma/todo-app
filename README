@@ -1,0 +1,11 @@
+# Simple TODO list App #
+
+## Requerimentos ##
+1. NodeJS
+
+## Instalar Aplicaci&oacute;n ##
+1. npm install
+  
+## Arrancar Aplicaci&oacute;n ##
+1. npm start
+2. No navegador: http://localhost:8000/

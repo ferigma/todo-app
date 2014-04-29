@@ -1,0 +1,21 @@
+.container {
+	margin-top: 20px;
+	width: 300px;
+}
+
+.title {
+	background-color: white;
+	color: black;
+}
+
+.todo-box {
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+/*
+[class*="col-"] {
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+*/
