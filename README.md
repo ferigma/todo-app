@@ -1,12 +1,11 @@
 # Simple TODO List App
-A simple app
 
 ## Requerimentos
-1. NodeJS
+1. NodeJS instalado.
 
-## Instalar Aplicacion
-1. npm install
+## Instalar Aplicación
+1. No path da aplicación: npm install
   
-## Arrancar Aplicacion
-1. npm start
+## Arrancar Aplicación
+1. No path da aplicación: npm start
 2. No navegador: http://localhost:3000/
