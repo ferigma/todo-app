@@ -1,4 +1,5 @@
-# Simple TODO List App
+# TODO App
+Unha simple aplicación para probar ExpressJS/NodeJS.
 
 ## Requerimentos
 1. NodeJS instalado.
